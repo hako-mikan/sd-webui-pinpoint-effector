@@ -1,0 +1,1 @@
+# sd-webui-pinpoint-effector
